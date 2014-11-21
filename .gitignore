@@ -1,0 +1,7 @@
+*.pyc
+*.dat
+svd-S
+svd-Ut
+svd-Vt
+*.cols
+*.rows
