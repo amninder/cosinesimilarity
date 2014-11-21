@@ -34,3 +34,8 @@ these files will be generated
   result.dat
   result.json
 ```
+
+```python
+def foo():
+  print "This is a sample sentence."
+```
