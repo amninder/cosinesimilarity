@@ -1,5 +1,5 @@
 #Git data set from
-http://grouplens.org/datasets/movielens/
+Down data from [MovieLens](http://grouplens.org/datasets/movielens/)
 
 1. Extract movies.dat and ratings.dat files in the root directory.
 2. run
