@@ -11,8 +11,8 @@ pip install -r requirements.txt
 ```
 or
 ```
-source movierecommender
-activate movierecommender/bin/activate
+virtualenv movierecommender
+source movierecommender/bin/activate
 pip install -r requirements.txt
 ```
 don't do
