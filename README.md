@@ -12,9 +12,3 @@ this will generate
   3. svd-Vt
   4. svd.ids.cols
   5. svd.ids.rows
-
-```java
-public static void main(){
-  system.out.println("This is a sample sentence.");
-}
-```
