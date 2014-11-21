@@ -1,4 +1,4 @@
-#Get data set from
+#MovieRecommender
 This project is created using data from MovieLens. Download data from [MovieLens](http://grouplens.org/datasets/movielens/).
 
 You can obtain result at [movie.narota.com](http://movie.narota.com). This is still in begining stage and it will take a little longer to render 9372 movies with recommendation.
